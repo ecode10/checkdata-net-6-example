@@ -1,0 +1,17 @@
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/MyData
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/MyData.deps.json
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/MyData.runtimeconfig.json
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/MyData.dll
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/ref/MyData.dll
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/MyData.pdb
+/Users/mauriciojunior/RiderProjects/MyData/MyData/bin/Debug/net6.0/CheckData.dll
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.csproj.AssemblyReference.cache
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.AssemblyInfoInputs.cache
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.AssemblyInfo.cs
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.csproj.CopyComplete
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.dll
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/ref/MyData.dll
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.pdb
+/Users/mauriciojunior/RiderProjects/MyData/MyData/obj/Debug/net6.0/MyData.genruntimeconfig.cache

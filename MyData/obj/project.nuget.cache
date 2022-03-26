@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfhJ6ZFBahWNPLQF3wEXG3aAsx/wH3jhp205rKRigF1XFOj5JCIcAI1TAeI60ob+DCAqIcxlodAFxi1VfsAVZg==",
+  "success": true,
+  "projectFilePath": "/Users/mauriciojunior/RiderProjects/MyData/MyData/MyData.csproj",
+  "expectedPackageFiles": [
+    "/Users/mauriciojunior/.nuget/packages/checkdata-net-6/1.0.5/checkdata-net-6.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

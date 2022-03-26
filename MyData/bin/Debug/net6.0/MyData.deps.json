@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyData/1.0.0": {
+        "dependencies": {
+          "CheckData-NET-6": "1.0.5"
+        },
+        "runtime": {
+          "MyData.dll": {}
+        }
+      },
+      "CheckData-NET-6/1.0.5": {
+        "runtime": {
+          "lib/net6.0/CheckData.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckData-NET-6/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U3XG/xBnGI56OFfHSHTixK8QWAnqz2Sq2p/4K4Co4IajRgNqqnOFEXJ/HTZ3svbtn+qDZ70LXz92jrcuWFMetQ==",
+      "path": "checkdata-net-6/1.0.5",
+      "hashPath": "checkdata-net-6.1.0.5.nupkg.sha512"
+    }
+  }
+}
